@@ -27,6 +27,7 @@
     left: -300px;
     transition: all 0.4s linear;
 }
+
 .sidebar_menu .logo{
     position: absolute;
     width: 100%;
